@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SlimBloodworth
 - 👀 I’m currently interested in Web Dev and Design.
 - 🌱 I’m currently learning Front Development.
-- 💞️ I’m looking to collaborate on...
+- 💞️ I’m looking to collaborate on web development, web design, themes, apps, UX and UI.
 - 📫 How to reach me by email SlimBloodworth@gmail.com
 
 <!---
