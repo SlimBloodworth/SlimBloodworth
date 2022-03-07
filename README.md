@@ -12,8 +12,8 @@
 
 ## Connect with me:
 
-[![website](images/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](images/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](images/twitter-light.svg)](https://twitter.com/slimbloodworth-light-mode-only)
+[![website](images/twitter-dark.svg)](https://twitter.com/slimbloodworth-dark-mode-only)
 &nbsp;&nbsp;
 [![website](images/linkedin-light.svg)](https://www.linkedin.com/in/michelle-renee-bloodworth-99b455187/-light-mode-only)
 [![website](images/linkedin-dark.svg)](https://www.linkedin.com/in/michelle-renee-bloodworth-99b455187/-dark-mode-only)
