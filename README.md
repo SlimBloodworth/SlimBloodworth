@@ -17,7 +17,7 @@
 &nbsp;&nbsp;
 [![website](images/linkedin-light.svg)](https://www.linkedin.com/in/michelle-renee-bloodworth-99b455187/-light-mode-only)
 [![website](images/linkedin-dark.svg)](https://www.linkedin.com/in/michelle-renee-bloodworth-99b455187/-dark-mode-only)
-<img align="left" alt="figma" width="60px" src="images/Codepen-dark.png">
+<img align="left" alt="figma" width="60px" src="images/Codepen-dark.png" a href="https://codepen.io/slimbloodworth">
 &nbsp;&nbsp;
 
 
