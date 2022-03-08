@@ -18,7 +18,8 @@
 [![website](images/linkedin-light.svg)](https://www.linkedin.com/in/michelle-renee-bloodworth-99b455187/-light-mode-only)
 [![website](images/linkedin-dark.svg)](https://www.linkedin.com/in/michelle-renee-bloodworth-99b455187/-dark-mode-only)
 &nbsp;&nbsp;
-[<img align="left" alt="CodePen" width="26px" src="images/Codepen-light"/>](https://codepen.io/slimbloodworth)
+
+
 ### Languages and Tools:
 
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]()
