@@ -11,8 +11,8 @@
 - 📫 How to reach me by email SlimBloodworth@gmail.com
 
 ## Connect with me:
-[<img align="left" alt="CodePen" width="60px" src="images/Codepen-dark.png" style="padding-right:10px;" />](https://codepen.io/slimbloodworth)
-[<img align="left" alt="CodePen" width="60px" src="images/Codepen-light.png" style="padding-right:10px;" />](https://codepen.io/slimbloodworth)
+[<img align="left" alt="CodePen" width="60px" src="images/Codepen-dark.png" style="padding-right:5px;" />](https://codepen.io/slimbloodworth)
+[<img align="left" alt="CodePen" width="60px" src="images/Codepen-light.png" style="padding-right:5px;" />](https://codepen.io/slimbloodworth)
 [![website](images/twitter-light.svg)](https://twitter.com/slimbloodworth)
 [![website](images/twitter-dark.svg)](https://twitter.com/slimbloodworth)
 &nbsp;&nbsp;
