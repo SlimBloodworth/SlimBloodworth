@@ -1,9 +1,9 @@
  # Hello, I'm Michelle - aka [SlimBloodworth]👋
  [[My Website]](https://slimbloodworth.editorx.io/portfolio)
  
-- 🌱 I’m currently focused on frontend client side dev and design 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute to open source projects
+- 🌱 I’m a UI developer and web designer. 
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2022 Goals: Contribute to open source projects.
 - ⚡ Fun fact: I was a stand up comic for 20 years.
 - ⚡ Another Fun fact: I have an extensive hat collection.
 - 👀 I’m currently interested collaborating with other contributors.
