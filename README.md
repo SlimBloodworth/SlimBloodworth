@@ -11,6 +11,8 @@
 - 💞️ I’m self taught and looking to learn from others as well!
 - 📫 How to reach me by email SlimBloodworth@gmail.com
 
+## ![My Repository Stats](https://github-readme-stats.vercel.app/api?username=SlimBloodworth&show_icons=true)
+
 ## Connect with me:
 
 [<img align="left" alt="CodePen" width="60px" src="images/Codepen-light.png" style="padding-right:5px;" />](https://codepen.io/slimbloodworth)
@@ -22,6 +24,7 @@
 [![website](images/linkedin-dark.svg)](https://www.linkedin.com/in/michelle-renee-bloodworth-99b455187/-dark-mode-only)
 &nbsp;&nbsp;
 
+## ![My Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SlimBloodworth&theme=blue-green)
 
 ## Languages and Tools:
 
@@ -34,7 +37,6 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" /><img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-
 
 <!---
 SlimBloodworth/SlimBloodworth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
