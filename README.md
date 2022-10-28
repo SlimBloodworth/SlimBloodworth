@@ -2,7 +2,7 @@
  [My Website](https://slimbloodworth.editorx.io/portfolio)
  
 - 🌱 I’m a UI developer and web designer.
-- 👀 My [Certifications](https://github.com/SlimBloodworth/Michelle-Renee-Certifications)
+- 👀 View my [Certifications](https://github.com/SlimBloodworth/Michelle-Renee-Certifications)
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 Goals: Contribute to open source projects.
 - ⚡ Fun fact: I was a stand up comic for 20 years.
