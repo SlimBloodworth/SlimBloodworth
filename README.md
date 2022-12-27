@@ -4,7 +4,7 @@
 - 🌱 I’m a UI developer and web designer.
 - 👀 View my [Certifications](https://github.com/SlimBloodworth/Michelle-Renee-Certifications)
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2022 Goals: Contribute to open source projects.
+- 🥅 2023 Goals: Contribute to open source projects.
 - ⚡ Fun fact: I was a stand up comic for 20 years.
 - ⚡ Another Fun fact: I have an extensive hat collection.
 - 👀 I’m currently interested collaborating with other contributors.
