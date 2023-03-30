@@ -1,15 +1,15 @@
  # Hello, I'm Michelle - aka [SlimBloodworth]👋
- [My Website](https://slimbloodworth.editorx.io/portfolio)
+ [My Website](https://michellerenee.dev)
  
 - 🌱 I’m a UI developer and web designer.
 - 👀 View my [Certifications](https://github.com/SlimBloodworth/Michelle-Renee-Certifications)
-- 👯 I’m looking to collaborate with other content creators.
+- 👀 View my [Portfolio](https://michellerenee.dev)
+- 👯 I’m looking to collaborate with other content creators, ux designers, and front-end developers.
 - 🥅 2023 Goals: Contribute to open source projects.
 - ⚡ Fun fact: I was a stand up comic for 20 years.
 - ⚡ Another Fun fact: I have an extensive hat collection.
 - 👀 I’m currently interested collaborating with other contributors.
 - 💞️ I’m self taught and looking to learn from others as well!
-- 📫 How to reach me by email SlimBloodworth@gmail.com
 
 ## ![My Repository Stats](https://github-readme-stats.vercel.app/api?username=SlimBloodworth&show_icons=true)
 
