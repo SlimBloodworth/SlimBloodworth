@@ -1,7 +1,7 @@
  # Hello, I'm Michelle - aka [SlimBloodworth]👋
  [michellerenee.dev](https://michellerenee.dev)
  
-- 🌱 I’m a client-side UI developer, UX designer, and writer.
+- 🌱 I’m a web email developer and designer, also experienced in content creation and digital marketing.
 - 👀 View my [Certifications](https://github.com/SlimBloodworth/Michelle-Renee-Certifications)
 - 👀 View my [Portfolio](https://michellerenee.dev)
 - 👯 I’m looking to collaborate!
