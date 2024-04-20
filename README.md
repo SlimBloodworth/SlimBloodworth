@@ -4,12 +4,12 @@
 - 🌱 I’m a client-side UI developer, UX designer, and writer.
 - 👀 View my [Certifications](https://github.com/SlimBloodworth/Michelle-Renee-Certifications)
 - 👀 View my [Portfolio](https://michellerenee.dev)
-- 👯 I’m looking to collaborate with other content creators, ux designers, and front-end developers.
-- 🥅 2023 Goals: Contribute to open source projects.
-- ⚡ Fun fact: I was a stand up comic for 20 years.
+- 👯 I’m looking to collaborate!
+- 🥅 2024 Goals: Contribute to open source projects.
+- ⚡ Fun fact: I was a stand-up comic for 20 years.
 - ⚡ Another Fun fact: I have an extensive hat collection.
-- 👀 I’m currently interested collaborating with other contributors.
-- 💞️ I’m self taught and looking to learn from others as well!
+- 👀 I’m currently interested in collaborating with other contributors.
+- 💞️ I’m self-taught and love learning!
 
 ## ![My Repository Stats](https://github-readme-stats.vercel.app/api?username=SlimBloodworth&show_icons=true)
 
