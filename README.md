@@ -1,15 +1,12 @@
  # Hello, I'm Michelle - aka [SlimBloodworth]👋
  [michellerenee.dev](https://michellerenee.dev)
  
-- 🌱 I’m a web email developer and designer, also experienced in content creation and digital marketing.
+- 🌱 I’m a front-end web and email developer and designer, also experienced in content creation and digital marketing.
 - 👀 View my [Certifications](https://github.com/SlimBloodworth/Michelle-Renee-Certifications)
 - 👀 View my [Portfolio](https://michellerenee.dev)
-- 👯 I’m looking to collaborate!
-- 🥅 2024 Goals: Contribute to open source projects.
+- 🥅 2025 Goals: Contribute to open source projects and grow my solo agency.
 - ⚡ Fun fact: I was a stand-up comic for 20 years.
 - ⚡ Another Fun fact: I have an extensive hat collection.
-- 👀 I’m currently interested in collaborating with other contributors.
-- 💞️ I’m self-taught and love learning!
 
 ## ![My Repository Stats](https://github-readme-stats.vercel.app/api?username=SlimBloodworth&show_icons=true)
 
