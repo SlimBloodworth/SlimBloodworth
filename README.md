@@ -8,8 +8,6 @@
 - ⚡ Fun fact: I was a stand-up comic for 20 years.
 - ⚡ Another Fun fact: I have an extensive hat collection.
 
-## ![My Repository Stats](https://github-readme-stats.vercel.app/api?username=SlimBloodworth&show_icons=true)
-
 ## Connect with me:
 
 [<img align="left" alt="CodePen" width="60px" src="images/Codepen-light.png" style="padding-right:5px;" />](https://codepen.io/slimbloodworth)
@@ -22,6 +20,8 @@
 [![website](images/linkedin-light.svg)](https://www.linkedin.com/in/michelle-renee-bloodworth-99b455187/-light-mode-only)
 [![website](images/linkedin-dark.svg)](https://www.linkedin.com/in/michelle-renee-bloodworth-99b455187/-dark-mode-only)
 &nbsp;&nbsp;
+
+## ![My Repository Stats](https://github-readme-stats.vercel.app/api?username=SlimBloodworth&show_icons=true)
 
 ## ![My Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SlimBloodworth&theme=blue-green)
 
