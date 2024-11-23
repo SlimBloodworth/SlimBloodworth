@@ -19,7 +19,7 @@
 [<img align="left" alt="CodePen" width="60px" src="images/Codepen-dark.png" style="padding-right:5px;" />](https://codepen.io/slimbloodworth)
 [<img align="left" alt="Instagram" width="30px" src="images/instagram-svgrepo-com.svg" style="padding-right:5px"/>](https://www.instagram.com/slimbloodworth/)
 [<img align="left" alt="Facebook" width="30px" src="images/facebook-svgrepo-com.svg" style="padding-right:5px"/>](https://www.facebook.com/profile.php?id=100073842390690)
-[<img align="left" alt="X" width="30px" src="images/icons8-twitter-48.png" style="padding-right:5px"/>](https://x.com/michellere57052)
+<!---[<img align="left" alt="X" width="30px" src="images/icons8-twitter-48.png" style="padding-right:5px"/>](https://x.com/michellere57052)-->
 [![website](images/linkedin-light.svg)](https://www.linkedin.com/in/michelle-renee-bloodworth-99b455187/-light-mode-only)
 [![website](images/linkedin-dark.svg)](https://www.linkedin.com/in/michelle-renee-bloodworth-99b455187/-dark-mode-only)
 &nbsp;&nbsp;
