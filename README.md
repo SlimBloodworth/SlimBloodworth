@@ -17,8 +17,7 @@
 [<img align="left" alt="Instagram" width="30px" src="images/instagram-svgrepo-com.svg" style="padding-right:5px"/>](https://www.instagram.com/michellereneedotdev/)
 [<img align="left" alt="Facebook" width="30px" src="images/facebook-svgrepo-com.svg" style="padding-right:5px"/>](https://www.facebook.com/profile.php?id=100073842390690)
 [<img align="left" alt="X social media" width="30px" src="images/x-icon.png" style="padding-right:5px;"/>](https://x.com/michellere57052)
-[<img align="left" alt="YouTube" width="30px" src="images/youtube-brands-solid-square-lt.svg" style="padding-right:5px;"/>](https://www.youtube.com/@MichelleReneeDotDev)
-[<img align="left" alt="YouTube" width="30px" src="images/youtube-brands-solid-square-dk.svg" style="padding-right:5px;"/>](https://www.youtube.com/@MichelleReneeDotDev)
+[<img align="left" alt="YouTube icon by Hassim Rahim" width="30px" src="images/youtube-icon.png" style="padding-right:5px;"/>](https://www.youtube.com/@MichelleReneeDotDev)
 [![website](images/linkedin-light.svg)](https://www.linkedin.com/in/michelle-renee-bloodworth-99b455187/-light-mode-only)
 [![website](images/linkedin-dark.svg)](https://www.linkedin.com/in/michelle-renee-bloodworth-99b455187/-dark-mode-only)
 &nbsp;&nbsp;
